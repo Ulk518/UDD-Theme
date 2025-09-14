@@ -109,7 +109,7 @@
             "#131516"
         ],
         "BORDER_SUBTLE": [
-            "#121516"
+            "#131516"
         ],
         "CARD_SECONDARY_BG": [
             "#171719"
@@ -148,7 +148,7 @@
             "#131516"
         ],
         "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-            "#0000FF"
+            "#131516"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#131516"
@@ -157,10 +157,10 @@
             "#0E0F11"
         ],
         "REDESIGN_BUTTON_DANGER_BACKGROUND": [
-            "#FF00FF"
+            "#131516"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#FFFFFF"
+            "#EDEDED"
         ],
         "REDESIGN_CHANNEL_NAME_TEXT": [
             "#FFFFFF"
