@@ -46,7 +46,7 @@
             "#FFFFFF"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-            "#FF6600"
+            "#FFFFFF"
         ],
         "CHANNELS_DEFAULT": [
             "#FFFFFF"
@@ -127,7 +127,7 @@
             "#FFFFFF"
         ],
         "HEADER_SECONDARY": [
-            "#00FFFF"
+            "#EDEDED"
         ],
         "INTERACTIVE_ACTIVE": [
             "#F2F2F2"
