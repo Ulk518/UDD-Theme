@@ -52,10 +52,10 @@
             "#FFFFFF"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#FF6600"
+            "#131516"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#FF0000"
+            "#171719"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#131516"
@@ -175,7 +175,7 @@
             "#991B23"
         ],
         "STATUS_DANGER_BACKGROUND": [
-            "#00FFFF"
+            "#171719"
         ],
         "STATUS_DANGER_TEXT": [
             "#131516"
