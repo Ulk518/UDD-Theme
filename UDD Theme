@@ -77,11 +77,11 @@
         "TEXT_PRIMARY": ["#FFFFFF"],
         "TEXT_SECONDARY": ["#B7B7B7"],
         "BG_MOD_FAINT": ["#0C0E0F"],
-        "KEYBOARD": ["#1E1E1E"],           // ← غيرناه من أخضر لرمادي غامق
+        "KEYBOARD": ["#1E1E1E"],
         "APPLICATION_COMMAND_BACKGROUND": ["#131516"],
         "APPLICATION_COMMAND_TEXT": ["#FFFFFF"],
-        "COMMAND_TEXT_PRIMARY": ["#FFFFFF"],   // ← غيرناه لأبيض
-        "COMMAND_TEXT_SECONDARY": ["#B7B7B7"], // ← رمادي فاتح
+        "COMMAND_TEXT_PRIMARY": ["#FFFFFF"],
+        "COMMAND_TEXT_SECONDARY": ["#B7B7B7"],
         "COMMAND_BACKGROUND": ["#0E0F11"]
     },
     "rawColors": {
@@ -96,16 +96,16 @@
         "PRIMARY_800": "#131516",
         "BRAND_260": "#B7B7B7",
         "BRAND_360": "#EDEDED",
-        "BRAND_500": "#FFFFFF",          // ← غيرناه لأبيض عشان يأثر على accents
+        "BRAND_500": "#FFFFFF",
         "BRAND_560": "#EDEDED",
         "RED_400": "#AD202A",
         "RED_430": "#991B23",
-        "GREEN_360": "#1E1E1E",          // ← غيرنا الأخضر لرمادي
+        "GREEN_360": "#1E1E1E",
         "GREEN_430": "#1E1E1E",
         "WHITE_500": "#FFFFFF",
         "BLUE_345": "#189BF2",
         "PLUM_1": "#FFFFFF",
-        "PLUM_3": "#1E1E1E",             // ← غيرنا أي خضراء محتملة
+        "PLUM_3": "#1E1E1E",
         "PLUM_6": "#FFFFFF",
         "PLUM_9": "#FFFFFF",
         "PLUM_11": "#B7B7B7",
